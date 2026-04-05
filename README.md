@@ -171,6 +171,6 @@ The difference in death rates before and after handwashing is **statistically si
 
 ## Contact
 
-For any questions or further information, please contact: **au190225@gmail.com**
+For any questions or further information, please contact: **gopinathan.stat@gmail.com**
 
 Feel free to modify any section or add additional information as needed!
